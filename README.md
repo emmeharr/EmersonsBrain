@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <h1>Emerson's 2025 Portfolio</h1>
