@@ -1,3 +1,2 @@
-# Welcome to Emerson Harr's Portfolio
-
+# Welcome
 Delfin Uslu Rocks socks
